@@ -9,11 +9,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
-<!-- 
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-using-react-and-tailwind-css-ILiw74lcl_)
+- Live Site URL: [Add live site URL here](https://blog-preview-card-opal-nine.vercel.app/)
 
 ### Built with
 
