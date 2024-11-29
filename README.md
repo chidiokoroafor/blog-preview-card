@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-using-react-and-tailwind-css-ILiw74lcl_)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-opal-nine.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-using-react-and-tailwind-css-ILiw74lcl_)
+- Live Site URL: [Live site URL](https://blog-preview-card-opal-nine.vercel.app/)
 
 ### Built with
 
